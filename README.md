@@ -3,7 +3,7 @@
 ## Door Edward Mac Gillavry
 ## Webmapper
 
-* [Presentatie](https://emacgillavry.github.io/pres-gmlnext-2018-07-17/)
+* [Presentatie](https://emacgillavry.github.io/pres-gmlnext-2018-07-17/index.html)
 
 Op dinsdag 17 juli organiseert Geonovum een werkbijeenkomst die draait om de vraag: welke open standaard(en) verdient/verdienen een plek in de Nederlandse SDI als alternatief voor GML? Voor deze werkbijeenkomst zijn we op zoek naar iedereen die praktijkervaring heeft met alternatieven -denk aan GeoPackage, JSON, GeoJSON, CItyJSON etc. - die ons kan helpen bij het beantwoorden van bovenstaande vraag, door zijn of haar eigen ervaringen en visie in te brengen. Aanmelden kan met een mail aan Friso Penninga. Meer informatie over de werksessie vind je hieronder.
  
