@@ -32,7 +32,7 @@ Edward Mac Gillavry, Webmapper
 * WGS-84 (decimalen!)
 * Volledige kolomname_
 * Makkelijk te genereren
-* Kleine datasetjes
+* Kleine datasetjes (*okay-ish* voor puntjes)
 
 ---
 
